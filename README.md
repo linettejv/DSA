@@ -16,7 +16,7 @@ Solving problems, one pattern at a time, in Python 🐍
 | 15 | 3Sum | Two Pointers | [3sum.py](./neetcode%20/3sum.py) |
 | 11 | Container With Most Water | Two Pointers |  [max-container.py](./neetcode%20/max-container.py) |
 | 3 | Longest Substring Without Repeating Characters | Sliding Window | [longest-substring-non-repeat.py](./neetcode%20/longest-substring-non-repeat.py) |
-| 128 | Longest Consequtive Sequence | hash-table, arrays | [longest-substring-non-repeat.py](./neetcode%20/longest-substring-non-|
+| 128 | Longest Consequtive Sequence | hash-table, arrays | [longest-sequence.py](https://github.com/linettejv/DSA/blob/main/neetcode%20/longest-conse-sequence.py)|
 ---
 
 ## 🎮 Side quests
