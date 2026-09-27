@@ -1,1 +1,1 @@
-I code and I might have to read through my beautiful logic over and over. So there it is.
+I code and I might have to read through the logic over and over. So there it is.
