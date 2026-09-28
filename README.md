@@ -17,6 +17,7 @@ Solving problems, one pattern at a time, in Python 🐍
 | 11 | Container With Most Water | Two Pointers |  [max-container.py](./neetcode%20/max-container.py) |
 | 3 | Longest Substring Without Repeating Characters | Sliding Window | [longest-substring-non-repeat.py](./neetcode%20/longest-substring-non-repeat.py) |
 | 128 | Longest Consequtive Sequence | hash-table, arrays | [longest-sequence.py](https://github.com/linettejv/DSA/blob/main/neetcode%20/longest-conse-sequence.py)|
+| 125 | Valid Palindrome | two pointer, arrays | [palindrome.py](https://github.com/linettejv/DSA/edit/main/README.md#:~:text=max%2Dcontainer.py-,palindrome,-.py)|
 ---
 
 ## 🎮 Side quests
